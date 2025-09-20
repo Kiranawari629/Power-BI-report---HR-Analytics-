@@ -1,6 +1,6 @@
 ## Power-BI-Dashboard-HR-Analytics- Attrition
 # Overview
-his repository contains a Power BI dashboard built to analyze and visualize data pf attrition. The dashboard provides interactive reports, enabling users to explore trends, track KPIs, and gain actionable insights.
+his repository contains a Power BI dashboard built to analyze and visualize data of attrition. The dashboard provides interactive reports, enabling users to explore trends, track KPIs, and gain actionable insights.
 # Key Insights
 Attrition rate
 Attrition by gender
